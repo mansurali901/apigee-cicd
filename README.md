@@ -98,7 +98,7 @@ build job: 'cucumber-report'
 <p align="center">
   <img src="https://user-images.githubusercontent.com/28925814/61175129-d4df7500-a5c7-11e9-8fb1-3ff6fa7307be.jpg?raw=true" alt="Slack"/>
 
-# Things to do in upcoming versions
+# Things to do in upcoming versions of apigee
 1. Update Developer Portal.
     * After successful `Integration Test`, we can add another Stage to `Update Developer Portal Docs`. 
     * Currently we have plugin/apis for updating `Apigee Drupal based portal`.
